@@ -16,4 +16,4 @@ customLabels:
 #searchBody: true
 
 # Search the title of the PR for the `text` [default: true]
-#searchTitle: true
+searchTitle: true
