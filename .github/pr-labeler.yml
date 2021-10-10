@@ -5,12 +5,12 @@ alwaysReplace: false
 caseSensitive: true
 # Array of labels to be applied to the PR [default: []]
 customLabels:
-  # Finds the `text` within the PR title and body and applies the `label`
-  - text: '#bug'
-    label: 'bug'
-  - text: '#test'
-    label: 'test'
-  - text: '#pr'
+#   # Finds the `text` within the PR title and body and applies the `label`
+#   - text: '#bug'
+#     label: 'bug'
+#   - text: '#test'
+#     label: 'test'
+  - text: '#prs'
     label: 'feature'
 # Search the body of the PR for the `text` [default: true]
 searchBody: true
