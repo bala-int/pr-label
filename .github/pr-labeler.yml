@@ -4,7 +4,7 @@ alwaysReplace: false
 # Treats the text and labels as case sensitive [default: true]
 #caseSensitive: true
 # Array of labels to be applied to the PR [default: []]
-#customLabels:
+customLabels:
   # Finds the `text` within the PR title and body and applies the `label`
 #   - text: '#bug'
 #     label: 'bug'
