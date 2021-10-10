@@ -10,7 +10,7 @@ customLabels:
     label: 'bug'
   - text: '#test'
     label: 'test'
-  - text: '#feature'
+  - text: 'featurepr'
     label: 'feature'
 # Search the body of the PR for the `text` [default: true]
 searchBody: true
