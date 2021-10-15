@@ -11,7 +11,7 @@ customLabels:
 #   - text: '#test'
 #     label: 'test'
   - text: '#'
-    label: 'bug'
+    label: 'doNotMerge'
 # Search the body of the PR for the `text` [default: true]
 searchBody: true
 # Search the title of the PR for the `text` [default: true]
